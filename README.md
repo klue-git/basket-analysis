@@ -1,5 +1,5 @@
 # Python Project: Instacart Grocery Basket Analysis
-# *As part of Careerfoundry's Data Analytics Certification*
+## *Careerfoundry Data Analytics Certification*
 
 ## Project Brief
 
